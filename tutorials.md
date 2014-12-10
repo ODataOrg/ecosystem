@@ -21,6 +21,9 @@ JayData
 **[Open Data for Open Science 2011](http://research.microsoft.com/en-us/events/devweek4environmentalresearch/default.aspx)**<br>
 Setting up the Deployer and the oData Web Service
 
+**[SAP Netweaver Gateway](http://www.abap-developers.com/2014/07/simple-openui5-application-i-how-to-create-odata-model-using-segw/)**<br>
+How to set up oData service in SAP Netweaver Gateway using SEGW transaction
+
 **[Securing OData API](http://www.layer7tech.com/tutorials/securing-odata-api)**<br>
 In this tutorial we’re going to look at how the Layer 7 Gateway can be used to secure and constrain an OData API.
 
