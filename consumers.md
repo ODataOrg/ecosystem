@@ -9,6 +9,9 @@ Client libraries are programming libraries that make it easy to consume OData se
 **[Database .NET v3](http://fishcodelib.com/Database.htm)**<br>
 Database .NET v3 – A free, easy-to-use and intuitive database management tool, supports OData
 
+**[Database Drivers](http://www.rssbus.com/source/odata/)**<br>
+The RSSBus OData Drivers offer easy-to-use database interfaces to OData feeds. Install any of the OData Drivers and connect to OData services just like a traditional relational database - through tables, views, and stored procedures.  Drivers available for ODBC, JDBC, ADO.NET, SQL (SSIS), BizTalk, and Excel.
+
 **[DataPublic](http://datapublic.org/)**<br>
 DataPublic provides a complete cloud-ready open data portal solution for citizen engagement using OGDI DataLab, Windows Azure and Drupal 7.
 
