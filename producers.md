@@ -15,6 +15,12 @@ The RSSBus Data Connectors create bidirectional OData entrypoints to SaaS & on-p
 **[GeoREST](http://code.google.com/p/georest/)**<br>
 GeoREST is a web-centric framework for distributing geospatial data. It allows RESTful feature-based access to spatial data sources, including full editing capabilities, through a MapGuide server or directly via FDO.
 
+**[IBM DB2 & Infomix](http://www.ibm.com/developerworks/data/library/techarticle/dm-1205odata/index.html)**<br>
+WebSphere eXtreme Scale can expose OData enabling access from a variety of clients.
+
+**[IBM WebSphere eXtreme Scale](http://www.ibm.com/developerworks/webservices/library/standards-odata/)**<br>
+DB2 & Informix can expose OData via Microsoft Visual Studio.
+
 **[Lightswitch](http://msdn.com/lightswitch)**<br>
 Microsoft Visual Studio LightSwitch is a development environment designed to simplify and shorten the development of data-driven businesses applications. Regardless of your development skills—whether you’re a beginner or an experienced developer—LightSwitch enables you to quickly create professional-quality business applications and data services.
 
