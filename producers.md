@@ -15,6 +15,10 @@ The RSSBus Data Connectors create bidirectional OData entrypoints to SaaS & on-p
 **[GeoREST](http://code.google.com/p/georest/)**<br>
 GeoREST is a web-centric framework for distributing geospatial data. It allows RESTful feature-based access to spatial data sources, including full editing capabilities, through a MapGuide server or directly via FDO.
 
+**[Gizur OData server](https://github.com/gizur/odataserver/)**<br>
+Open source OData server that exposes an OData API from any MySQL database. The server also extends the OData API with functions
+for managing users and privileges. In addition there is  support for BLOBs. The server is currently in beta status.
+
 **[IBM DB2 & Infomix](http://www.ibm.com/developerworks/data/library/techarticle/dm-1205odata/index.html)**<br>
 DB2 & Informix can expose OData via Microsoft Visual Studio.
 
