@@ -6,6 +6,9 @@ Description<br>
 **[Client Libraries](http://www.odata.org/libraries)**<br>
 Client libraries are programming libraries that make it easy to consume OData services. We already have libraries that target: .Net, Javascript, PHP, Java, iOS, Python, and etc.
 
+**[combit](http://www.combit.com)**<br>
+combit supports OData consumption both for their reporting component List & Label and their self service BI tool Report Server.
+
 **[Database .NET v3](http://fishcodelib.com/Database.htm)**<br>
 Database .NET v3 – A free, easy-to-use and intuitive database management tool, supports OData
 
