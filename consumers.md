@@ -30,6 +30,9 @@ Drupal is an open source content management platform powering millions of websit
 **[Joomla](http://joomlacode.org/gf/project/odata/)**<br>
 The OData Component for Joomla supports reading and parsing data from OData feeds from within content pages like Articles and Basic Pages. Users can include data from any OData publishers.
 
+**[Lightning Connect](http://www.salesforce.com/platform/services/how-you-integrate/)**<br>
+Lightning Connect leverages the OData protocol to connect with external data without copying or storing that data inside Salesforce. Data retrieved via OData 2.0 protocol will manifest as Salesforce external (virtual) objects so that it can be tightly integrated into the Salesforce1 Platform.
+
 **[LINQPad](http://www.linqpad.net/Beta.aspx)**<br>
 LINQPad is a tool for building OData queries interactively.
 
