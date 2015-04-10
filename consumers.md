@@ -3,6 +3,9 @@
 Description<br>
 
 ---------------------------------------------------------------------------------------------------------------
+**[ADO.NET Driver](http://www.cdata.com/drivers/odata/ado/)**<br>
+Read, Write, and Update OData services through ADO.NET.  The OData Data Provider makes OData Services look like SQL tables in your applications. With the ADO.NET Provider developers can simply DataBind to data, just like using SQL Server.
+
 **[Client Libraries](http://www.odata.org/libraries)**<br>
 Client libraries are programming libraries that make it easy to consume OData services. We already have libraries that target: .Net, Javascript, PHP, Java, iOS, Python, and etc.
 
@@ -11,9 +14,6 @@ combit supports OData consumption both for their reporting component List & Labe
 
 **[Database .NET v3](http://fishcodelib.com/Database.htm)**<br>
 Database .NET v3 – A free, easy-to-use and intuitive database management tool, supports OData
-
-**[Database Drivers](http://www.rssbus.com/source/odata/)**<br>
-The RSSBus OData Drivers offer easy-to-use database interfaces to OData feeds. Install any of the OData Drivers and connect to OData services just like a traditional relational database - through tables, views, and stored procedures.  Drivers available for ODBC, JDBC, ADO.NET, SQL (SSIS), BizTalk, and Excel.
 
 **[DataPublic](http://datapublic.org/)**<br>
 DataPublic provides a complete cloud-ready open data portal solution for citizen engagement using OGDI DataLab, Windows Azure and Drupal 7.
@@ -26,6 +26,12 @@ Visual Studio LightSwitch provides the fastest and easiest way to create Line-Of
 
 **[Drupal](http://drupal.org/project/odata)**<br>
 Drupal is an open source content management platform powering millions of websites and applications.
+
+**[Excel Add-In](http://www.cdata.com/drivers/odata/excel/)**<br>
+Connect with live OData services directly from Microsoft Excel. Use Excel to directly search, aggregate, read, write, and update live OData feeds. Perfect for mass imports / exports / updates, data cleansing & de-duplication, Excel based data analysis, and more!
+
+**[JDBC Driver](http://www.cdata.com/drivers/odata/jdbc/)**<br>
+Connect-to live OData Services services from all kinds of BI, Reporting, ETL, Database, and Analytics tools. With the JDBC Driver users can access OData Services the same way that they would connect to any other JDBC data source. 
 
 **[Joomla](http://joomlacode.org/gf/project/odata/)**<br>
 The OData Component for Joomla supports reading and parsing data from OData feeds from within content pages like Articles and Basic Pages. Users can include data from any OData publishers.
@@ -47,6 +53,9 @@ Open Data Protocol (OData version 4.0) library for BlackBerry 10 (BB10) Cascades
 
 **[OData Powershell Explorer](http://psodata.codeplex.com/)**<br>
 An ‘OData Explorer’ PowerShell application designed to allow ad-hoc browsing of OData Services using the command line or GUI using WPK from the Microsoft PowerShell Pack.
+
+**[ODBC Driver](http://www.cdata.com/drivers/odata/odbc/)**<br>
+Read, Write, and Update OData services through ODBC.  Access OData services like you would any standard database - read, write, and update etc. through a standard ODBC Driver interface.
 
 **[Pebble Reports](http://pebblereports.com/odata/)**<br>
 Pebble Reports lets you create reports consisting of tables, charts and crosstabs. Reports can be exported to Word, Excel and PDF formats, or emailed via Outlook.
