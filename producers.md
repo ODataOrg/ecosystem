@@ -19,6 +19,9 @@ GeoREST is a web-centric framework for distributing geospatial data. It allows R
 Open source OData server that exposes an OData API from any MySQL database. The server also extends the OData API with functions
 for managing users and privileges. In addition there is  support for BLOBs. The server is currently in beta status.
 
+**[JBoss Data Virtualization](http://www.redhat.com/en/technologies/jboss-middleware/data-virtualization)**<br>
+JBoss Data Virtualization exposes an OData service out-of-the-box from any exposed relational objects (tables and procedures).
+
 **[IBM DB2 & Infomix](http://www.ibm.com/developerworks/data/library/techarticle/dm-1205odata/index.html)**<br>
 DB2 & Informix can expose OData via Microsoft Visual Studio.
 
