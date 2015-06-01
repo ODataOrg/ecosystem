@@ -35,3 +35,6 @@ Connecting to an OData source
 
 **[Xceed](http://www.youtube.com/watch?v=jv7tP-F2mrQ)**<br>
 empty
+
+**[ODataHQ](http://blog.odatahq.com/blog/2014/09/10/Connect-live-data-to-Excel/)**<br>
+Connect an OData service to Microsoft Excel
