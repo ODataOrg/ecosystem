@@ -15,9 +15,6 @@ The open data portal of the City of Regina, Saskatchewan, Canada, running on OGD
 **[Colombia Government Open Data Portal](http://datos.gov.co/)**<br>
 Colombia Government open data portal running on OGDI DataLab and Windows Azure.
 
-**[Databoom](https://databoom.space)**<br>
-Databoom is a BaaS (Backend as a Service) that uses OData and SPARQL for graph database access.
-
 **[DataLab](https://github.com/openlab/OGDI-DataLab)**<br>
 DataLab (formerly known as Open Government Data Initiative) provides a customizable API for publishing government open data. The OGDI project has been superseded by the DataLab project hosted on GitHub. DataLab provides a RESTful Web service for data, accessible and visualized via a native DataBrowser (ASP.NET MVC), web and mobile apps (HTML/JavaScript, PHP, Ruby, etc), Excel, SharePoint, Drupal 7 and others.
 
